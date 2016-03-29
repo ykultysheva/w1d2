@@ -3,12 +3,48 @@ body {
 }
 
 
-p {
-  color: orange;
-  font-size: 28px;
-  text-align: center;
-  font-family: Arial, Helvectica, sans-serif;
+h1 {
+  color: blue;
 }
+
+.apple {
+  font-family: Arial, Helvectica, sans-serif;
+  border: 3px;
+  border: solid;
+}
+
+.mango {
+  height: 100px;
+  width: 100px;
+  background-color: orange;
+}
+
+#pineapple {
+  height: 100px;
+  width: 200px;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: pink;
+}
+
+#grapes {
+  list-style-type: upper-alpha;
+}
+
+.kiwi {
+  list-style-type: armenian;
+}
+
+.pear {
+  color: grey;
+  font-weight: bold;
+}
+
+.papaya {
+  color: brown;
+  font-weight: lighter;
+}
+
 
 .second_p {
   color: green;
